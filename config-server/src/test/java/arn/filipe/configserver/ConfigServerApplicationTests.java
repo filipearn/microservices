@@ -1,4 +1,4 @@
-package digitalinnovation.one.experts.configserver;
+package arn.filipe.configserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

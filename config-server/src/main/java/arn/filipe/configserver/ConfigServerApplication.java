@@ -1,4 +1,4 @@
-package digitalinnovation.one.experts.configserver;
+package arn.filipe.configserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
