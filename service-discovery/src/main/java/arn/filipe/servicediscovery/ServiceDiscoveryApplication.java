@@ -1,4 +1,4 @@
-package digitalinnovation.one.experts.servicediscovery;
+package arn.filipe.servicediscovery;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

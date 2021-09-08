@@ -1,4 +1,4 @@
-package digitalinnovation.one.experts.servicediscovery;
+package arn.filipe.servicediscovery;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
